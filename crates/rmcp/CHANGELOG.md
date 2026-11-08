@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.10.0](https://github.com/modelcontextprotocol/rust-sdk/compare/rmcp-v3.9.0...rmcp-v3.10.0) - 2026-11-08
+
+### Added
+
+- load skills from a directory tree ([#1409](https://github.com/modelcontextprotocol/rust-sdk/pull/1409))
+
+### Other
+
+- *(service)* clarify startup and stdio lifecycle ([#1387](https://github.com/modelcontextprotocol/rust-sdk/pull/1387))
+
 ## [3.9.0](https://github.com/modelcontextprotocol/rust-sdk/compare/rmcp-v3.8.0...rmcp-v3.9.0) - 2026-11-05
 
 ### Added
